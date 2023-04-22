@@ -1,0 +1,17 @@
+Weather,Construction,Day of Week,Outcome,DT Outcome
+No Rain,No,Weekday,On Time,On Time
+No Rain,No,Weekday,On Time,On Time
+No Rain,No,Weekday,On Time,On Time
+No Rain,Yes,Weekend,Delay,On Time
+Rain,No,Weekday,Delay,On Time
+Rain,No,Weekday,On Time,On Time
+Rain,No,Weekday,On Time,On Time
+Rain,No,Weekday,On Time,On Time
+Rain,No,Weekend,Delay,On Time
+Rain,No,Weekend,On Time,On Time
+Rain,No,Weekend,On Time,On Time
+Rain,Yes,Weekday,Delay,Delay
+Rain,Yes,Weekend,Delay,Delay
+Storm,No,Weekday,Delay,Delay
+Storm,No,Weekday,Delay,Delay
+Storm,No,Weekend,Delay,Delay
